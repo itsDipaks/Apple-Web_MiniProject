@@ -1,0 +1,124 @@
+{"Products":[
+      {
+             "id":1 ,
+            "title":"I-Phone 13 ",
+            "img":"https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+            "desc":"New iphone 13 prop",
+            "price":130000,
+                   "category":"Mobile"
+        }
+        ,
+        {
+            "id": 2,
+            "title":" Ipad Pro" ,
+            "desc": "The ultimate iPad experience 12.9” Liquid Retina XDR display1 11” Liquid Retina display1 12MP Wide and 10MP Ultra Wide back cameras",
+            "img":" https://www.apple.com/v/ipad-pro/ai/images/overview/experience/intro_summary_static__epib5tclp926_large.png",
+            "price":80000 ,
+            "category":"tab"  
+
+        },
+       
+        {
+            "id": 4,
+            "title": "Mac Pro" ,
+            "desc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass  A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-pro-segment-2019?wid=800&hei=600&fmt=png-alpha&.v=1572897645347",
+            "price":110000 ,
+            "category":"Other"  
+
+        },
+     
+        {
+            "id": 5,
+            "title": "Mac Studio" ,
+            "desc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass  A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-segment-studio?wid=800&hei=600&fmt=png-alpha&.v=1645750647549",
+            "price":350000 ,
+            "category":"Other"  
+
+        },
+        {
+            "id": 6,
+            "title": "Studio Display" ,
+            "desc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass  A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-segment-studio-display?wid=800&hei=600&fmt=png-alpha&.v=1645750647512",
+            "price":410000 ,
+            "category":"Other"  
+
+        },
+      {
+
+        "id": 7,
+            "title":"Studio Display Pro X ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/pro-display-segment-2019?wid=800&hei=600&fmt=png-alpha&.v=1646933636572",
+            "desc":"New iphone 13 prop",
+            "price":530000,
+            "category":"Other"
+        }
+        ,
+        {
+            "id": 8,
+            "title":" Ipad Pro" ,
+            "desc": "The ultimate iPad experience 12.9” Liquid Retina XDR display1 11” Liquid Retina display1 12MP Wide and 10MP Ultra Wide back cameras",
+            "img":" https://www.apple.com/v/ipad-pro/ai/images/overview/experience/intro_summary_static__epib5tclp926_large.png",
+            "price":80000 ,
+            "category":"tab"  
+
+        },
+        {
+            "id": 9,
+            "title":"Ipad Mini"  ,
+            "desc":"Powerful. Colorful. Wonderful Liquid Retina display1 M1 chip 12MP Wide back camera Ultra Wide front camera with Center Stage Works with Apple Pencil (2nd generation)" ,
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-segment-ipad-mini-202109?wid=800&hei=600&fmt=png-alpha&.v=1629768130000",
+            "price":45000 ,
+            "category": "tab" 
+
+        },
+        {
+            "id": 10,
+            "title": "Mac-Mini " ,
+            "desc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass  A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-segment-202011?wid=800&hei=600&fmt=png-alpha&.v=1603469675000 ",
+            "price":1500000 ,
+            "category":"Other"  
+
+        },
+        {
+            "id": 11,
+            "title": "IMac" ,
+            "desc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass  A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-segment-202110_GEO_US?wid=800&hei=600&fmt=png-alpha&.v=1634778312000",
+            "price":210000 ,
+            "category":"Other"  
+
+        },
+        {
+            "id": 12,
+            "title": "MacBook Pro " ,
+            "desc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass  A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-pro-segment-202206_GEO_US?wid=800&hei=600&fmt=png-alpha&.v=1654032863304",
+            "price":250000 ,
+            "category":"Laptop"  
+
+        },
+        {
+            "id": 13,
+            "title": "Macbook Air with M2 chip " ,
+            "desc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass  A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-m2-segment-202206_GEO_US?wid=800&hei=600&fmt=png-alpha&.v=1653666783678",
+            "price":120000 ,
+            "category":"Laptop"  
+
+        },
+        {
+            "id": 14,
+            "title": "Macbook Air with M1 chip " ,
+            "desc":"6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass  A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more ",
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-segment-202110_GEO_US?wid=800&hei=600&fmt=png-alpha&.v=1634778314000",
+            "price":140000 ,
+            "category":"Laptop"  
+
+        }
+                
+    ]
+}

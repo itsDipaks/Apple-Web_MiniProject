@@ -1,0 +1,35 @@
+.activelink{
+color: red;
+margin-top: 10px;
+text-align: center;
+text-decoration: none;
+}
+.deactivelink{
+color: rgb(255, 255, 255);
+text-align: center;
+text-decoration: none;
+margin-top: 10px;
+}
+.ulnavlist{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    align-items: center;
+    list-style: none;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    height: 40px;
+    /* display: flex; */
+    align-items: center;
+
+    
+    /* justify-content: space-evenly; */
+}
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+text-decoration: none;
+}
